@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "ozanyurtsever/verbum",
+    "stargazers_count": 513,
+    "open_issues_count": 4,
+    "forks_count": 20
+  },
+  {
     "full_name": "safak/youtube",
-    "stargazers_count": 3344,
-    "open_issues_count": 68,
-    "forks_count": 3941
+    "stargazers_count": 3353,
+    "open_issues_count": 69,
+    "forks_count": 3961
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -49,26 +55,26 @@
   },
   {
     "full_name": "davidflanagan/jstdg7",
-    "stargazers_count": 686,
+    "stargazers_count": 689,
     "open_issues_count": 2,
-    "forks_count": 319
+    "forks_count": 322
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 48094,
+    "stargazers_count": 48153,
     "open_issues_count": 79,
-    "forks_count": 6787
+    "forks_count": 6806
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 78274,
+    "stargazers_count": 78434,
     "open_issues_count": 24,
-    "forks_count": 11313
+    "forks_count": 11327
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 57567,
-    "open_issues_count": 13,
-    "forks_count": 8736
+    "stargazers_count": 57661,
+    "open_issues_count": 14,
+    "forks_count": 8754
   }
 ]
