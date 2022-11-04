@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "iamshaunjp/MERN-Auth-Tutorial",
+    "stargazers_count": 81,
+    "open_issues_count": 0,
+    "forks_count": 31
+  },
+  {
     "full_name": "Boye95/theBlog",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,15 +13,15 @@
   },
   {
     "full_name": "ozanyurtsever/verbum",
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 3501,
-    "open_issues_count": 72,
-    "forks_count": 4087
+    "stargazers_count": 3516,
+    "open_issues_count": 73,
+    "forks_count": 4106
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -61,26 +67,26 @@
   },
   {
     "full_name": "davidflanagan/jstdg7",
-    "stargazers_count": 712,
+    "stargazers_count": 716,
     "open_issues_count": 2,
-    "forks_count": 327
+    "forks_count": 328
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 49092,
-    "open_issues_count": 81,
-    "forks_count": 6918
+    "stargazers_count": 49139,
+    "open_issues_count": 82,
+    "forks_count": 6932
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 80157,
+    "stargazers_count": 80284,
     "open_issues_count": 26,
-    "forks_count": 11550
+    "forks_count": 11568
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 58843,
-    "open_issues_count": 158,
-    "forks_count": 9270
+    "stargazers_count": 58895,
+    "open_issues_count": 160,
+    "forks_count": 9283
   }
 ]
