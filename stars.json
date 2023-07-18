@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "you-dont-need/You-Dont-Need-GUI",
+    "stargazers_count": 5230,
+    "open_issues_count": 9,
+    "forks_count": 235
+  },
+  {
     "full_name": "AltCamp/altcampv1-backend",
     "stargazers_count": 11,
     "open_issues_count": 5,
@@ -20,12 +26,12 @@
   {
     "full_name": "AltCamp/altcampv1-frontend",
     "stargazers_count": 9,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "0xMALVEE/mern-login-system-2022",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "iamshaunjp/MERN-Auth-Tutorial",
-    "stargazers_count": 164,
+    "stargazers_count": 167,
     "open_issues_count": 2,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "ozanyurtsever/verbum",
     "stargazers_count": 623,
-    "open_issues_count": 11,
-    "forks_count": 40
+    "open_issues_count": 12,
+    "forks_count": 41
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 4368,
+    "stargazers_count": 4372,
     "open_issues_count": 98,
-    "forks_count": 5000
+    "forks_count": 5006
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -109,20 +115,20 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 55305,
+    "stargazers_count": 55360,
     "open_issues_count": 11,
-    "forks_count": 7926
+    "forks_count": 7933
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 110831,
-    "open_issues_count": 45,
-    "forks_count": 15540
+    "stargazers_count": 111091,
+    "open_issues_count": 46,
+    "forks_count": 15567
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 72575,
-    "open_issues_count": 46,
-    "forks_count": 11391
+    "stargazers_count": 72686,
+    "open_issues_count": 43,
+    "forks_count": 11400
   }
 ]
