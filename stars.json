@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14486,
-    "open_issues_count": 433,
-    "forks_count": 1368
+    "stargazers_count": 14495,
+    "open_issues_count": 435,
+    "forks_count": 1370
   },
   {
     "full_name": "tobisupreme/keep-alive-render",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3655,
+    "stargazers_count": 3656,
     "open_issues_count": 10,
-    "forks_count": 660
+    "forks_count": 659
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 6187,
-    "open_issues_count": 20,
-    "forks_count": 1491
+    "stargazers_count": 6216,
+    "open_issues_count": 22,
+    "forks_count": 1497
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 5295,
+    "stargazers_count": 5300,
     "open_issues_count": 8,
-    "forks_count": 235
+    "forks_count": 234
   },
   {
     "full_name": "AltCamp/altcampv1-backend",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "0xMALVEE/mern-login-system-2022",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 12
   },
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "iamshaunjp/MERN-Auth-Tutorial",
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 2,
-    "forks_count": 104
+    "forks_count": 106
   },
   {
     "full_name": "ozanyurtsever/verbum",
-    "stargazers_count": 666,
-    "open_issues_count": 14,
+    "stargazers_count": 667,
+    "open_issues_count": 16,
     "forks_count": 49
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 4661,
+    "stargazers_count": 4666,
     "open_issues_count": 102,
-    "forks_count": 5241
+    "forks_count": 5248
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 57691,
+    "stargazers_count": 57734,
     "open_issues_count": 8,
-    "forks_count": 8347
+    "forks_count": 8351
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 136298,
+    "stargazers_count": 138986,
     "open_issues_count": 88,
-    "forks_count": 18604
+    "forks_count": 18934
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 78647,
-    "open_issues_count": 76,
-    "forks_count": 12133
+    "stargazers_count": 78713,
+    "open_issues_count": 77,
+    "forks_count": 12138
   }
 ]
