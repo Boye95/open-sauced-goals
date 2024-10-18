@@ -1,15 +1,15 @@
 [
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 46571,
+    "stargazers_count": 46596,
     "open_issues_count": 5,
-    "forks_count": 3712
+    "forks_count": 3713
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15025,
-    "open_issues_count": 456,
-    "forks_count": 1282
+    "stargazers_count": 15026,
+    "open_issues_count": 455,
+    "forks_count": 1281
   },
   {
     "full_name": "tobisupreme/keep-alive-render",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3863,
-    "open_issues_count": 11,
-    "forks_count": 706
+    "stargazers_count": 3865,
+    "open_issues_count": 12,
+    "forks_count": 707
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 8685,
-    "open_issues_count": 47,
-    "forks_count": 2022
+    "stargazers_count": 8704,
+    "open_issues_count": 39,
+    "forks_count": 2027
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ozanyurtsever/verbum",
-    "stargazers_count": 715,
+    "stargazers_count": 716,
     "open_issues_count": 20,
     "forks_count": 60
   },
@@ -99,7 +99,7 @@
     "full_name": "safak/youtube",
     "stargazers_count": 5042,
     "open_issues_count": 115,
-    "forks_count": 5460
+    "forks_count": 5462
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 62609,
+    "stargazers_count": 62635,
     "open_issues_count": 30,
-    "forks_count": 8891
+    "forks_count": 8894
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 200776,
-    "open_issues_count": 185,
-    "forks_count": 26184
+    "stargazers_count": 201170,
+    "open_issues_count": 187,
+    "forks_count": 26242
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83273,
-    "open_issues_count": 110,
-    "forks_count": 12318
+    "stargazers_count": 83295,
+    "open_issues_count": 109,
+    "forks_count": 12322
   }
 ]
