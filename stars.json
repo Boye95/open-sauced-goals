@@ -1,13 +1,13 @@
 [
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 47174,
-    "open_issues_count": 2,
-    "forks_count": 3742
+    "stargazers_count": 47229,
+    "open_issues_count": 0,
+    "forks_count": 3747
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15147,
+    "stargazers_count": 15151,
     "open_issues_count": 454,
     "forks_count": 1295
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 9161,
-    "open_issues_count": 45,
-    "forks_count": 2173
+    "stargazers_count": 9180,
+    "open_issues_count": 46,
+    "forks_count": 2179
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 5598,
+    "stargazers_count": 5597,
     "open_issues_count": 10,
     "forks_count": 241
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "Josee9988/project-template",
-    "stargazers_count": 850,
+    "stargazers_count": 851,
     "open_issues_count": 4,
     "forks_count": 145
   },
@@ -99,7 +99,7 @@
     "full_name": "safak/youtube",
     "stargazers_count": 5095,
     "open_issues_count": 119,
-    "forks_count": 5525
+    "forks_count": 5529
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -145,26 +145,26 @@
   },
   {
     "full_name": "davidflanagan/jstdg7",
-    "stargazers_count": 956,
+    "stargazers_count": 957,
     "open_issues_count": 3,
-    "forks_count": 417
+    "forks_count": 418
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 63259,
+    "stargazers_count": 63276,
     "open_issues_count": 36,
-    "forks_count": 8988
+    "forks_count": 8989
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 214017,
+    "stargazers_count": 214744,
     "open_issues_count": 204,
-    "forks_count": 27924
+    "forks_count": 28020
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 84178,
-    "open_issues_count": 114,
-    "forks_count": 12487
+    "stargazers_count": 84411,
+    "open_issues_count": 116,
+    "forks_count": 12530
   }
 ]
