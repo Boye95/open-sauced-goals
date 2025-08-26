@@ -1,15 +1,15 @@
 [
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 47949,
+    "stargazers_count": 47950,
     "open_issues_count": 0,
-    "forks_count": 3817
+    "forks_count": 3814
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15433,
+    "stargazers_count": 15438,
     "open_issues_count": 487,
-    "forks_count": 1351
+    "forks_count": 1355
   },
   {
     "full_name": "tobisupreme/keep-alive-render",
@@ -20,14 +20,14 @@
   {
     "full_name": "malgamves/CommunityWriterPrograms",
     "stargazers_count": 4077,
-    "open_issues_count": 9,
-    "forks_count": 737
+    "open_issues_count": 10,
+    "forks_count": 738
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 10001,
-    "open_issues_count": 57,
-    "forks_count": 2421
+    "stargazers_count": 10010,
+    "open_issues_count": 58,
+    "forks_count": 2425
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 5704,
-    "open_issues_count": 11,
-    "forks_count": 243
+    "stargazers_count": 5706,
+    "open_issues_count": 10,
+    "forks_count": 242
   },
   {
     "full_name": "AltCamp/altcampv1-backend",
@@ -93,13 +93,13 @@
     "full_name": "ozanyurtsever/verbum",
     "stargazers_count": 729,
     "open_issues_count": 22,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 5155,
+    "stargazers_count": 5154,
     "open_issues_count": 123,
-    "forks_count": 5540
+    "forks_count": 5543
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 64783,
+    "stargazers_count": 64794,
     "open_issues_count": 44,
-    "forks_count": 9186
+    "forks_count": 9187
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 240472,
+    "stargazers_count": 241138,
     "open_issues_count": 238,
-    "forks_count": 31457
+    "forks_count": 31529
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 91507,
-    "open_issues_count": 162,
-    "forks_count": 13904
+    "stargazers_count": 91583,
+    "open_issues_count": 142,
+    "forks_count": 13913
   }
 ]
