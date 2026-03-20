@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "Olatisunkanmi/claude-skills",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "sailscastshq/boring-stack",
-    "stargazers_count": 491,
+    "stargazers_count": 492,
     "open_issues_count": 6,
     "forks_count": 25
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 50673,
+    "stargazers_count": 50675,
     "open_issues_count": 2,
-    "forks_count": 3977
+    "forks_count": 3972
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15605,
-    "open_issues_count": 472,
+    "stargazers_count": 15607,
+    "open_issues_count": 474,
     "forks_count": 1404
   },
   {
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 4132,
+    "stargazers_count": 4134,
     "open_issues_count": 11,
-    "forks_count": 747
+    "forks_count": 748
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 10422,
+    "stargazers_count": 10429,
     "open_issues_count": 80,
-    "forks_count": 2556
+    "forks_count": 2563
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 5834,
+    "stargazers_count": 5836,
     "open_issues_count": 11,
     "forks_count": 241
   },
@@ -93,11 +99,11 @@
     "full_name": "iamshaunjp/MERN-Auth-Tutorial",
     "stargazers_count": 266,
     "open_issues_count": 4,
-    "forks_count": 136
+    "forks_count": 135
   },
   {
     "full_name": "ozanyurtsever/verbum",
-    "stargazers_count": 729,
+    "stargazers_count": 728,
     "open_issues_count": 22,
     "forks_count": 60
   },
@@ -105,7 +111,7 @@
     "full_name": "safak/youtube",
     "stargazers_count": 5191,
     "open_issues_count": 128,
-    "forks_count": 5507
+    "forks_count": 5503
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -157,20 +163,20 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 65309,
+    "stargazers_count": 65303,
     "open_issues_count": 48,
-    "forks_count": 9236
+    "forks_count": 9239
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 261102,
-    "open_issues_count": 281,
-    "forks_count": 33997
+    "stargazers_count": 261276,
+    "open_issues_count": 282,
+    "forks_count": 34023
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 95427,
-    "open_issues_count": 44,
-    "forks_count": 15253
+    "stargazers_count": 95440,
+    "open_issues_count": 47,
+    "forks_count": 15270
   }
 ]
