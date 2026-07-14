@@ -1,9 +1,9 @@
 [
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 148525,
+    "stargazers_count": 150516,
     "open_issues_count": 396,
-    "forks_count": 8503
+    "forks_count": 8597
   },
   {
     "full_name": "Olatisunkanmi/claudefiles",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 51248,
+    "stargazers_count": 51256,
     "open_issues_count": 4,
-    "forks_count": 4001
+    "forks_count": 4000
   },
   {
     "full_name": "tc39/ecma262",
     "stargazers_count": 15654,
-    "open_issues_count": 471,
-    "forks_count": 1415
+    "open_issues_count": 474,
+    "forks_count": 1416
   },
   {
     "full_name": "tobisupreme/keep-alive-render",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 4165,
+    "stargazers_count": 4166,
     "open_issues_count": 13,
-    "forks_count": 747
+    "forks_count": 748
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 10514,
+    "stargazers_count": 10516,
     "open_issues_count": 85,
     "forks_count": 2596
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 5200,
+    "stargazers_count": 5197,
     "open_issues_count": 132,
     "forks_count": 5474
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 65305,
+    "stargazers_count": 65303,
     "open_issues_count": 53,
-    "forks_count": 9211
+    "forks_count": 9210
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 272683,
-    "open_issues_count": 283,
-    "forks_count": 35195
+    "stargazers_count": 273207,
+    "open_issues_count": 286,
+    "forks_count": 35239
   }
 ]
