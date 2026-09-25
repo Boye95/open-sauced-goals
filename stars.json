@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "weave-os/router",
+    "stargazers_count": 5149,
+    "open_issues_count": 129,
+    "forks_count": 142
+  },
+  {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 183071,
-    "open_issues_count": 641,
-    "forks_count": 9881
+    "stargazers_count": 184414,
+    "open_issues_count": 645,
+    "forks_count": 9915
   },
   {
     "full_name": "Olatisunkanmi/claudefiles",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 51558,
+    "stargazers_count": 51577,
     "open_issues_count": 11,
     "forks_count": 4020
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15692,
-    "open_issues_count": 477,
-    "forks_count": 1433
+    "stargazers_count": 15695,
+    "open_issues_count": 482,
+    "forks_count": 1432
   },
   {
     "full_name": "tobisupreme/keep-alive-render",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 4180,
+    "stargazers_count": 4182,
     "open_issues_count": 8,
     "forks_count": 745
   },
@@ -45,7 +51,7 @@
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
     "stargazers_count": 10556,
     "open_issues_count": 85,
-    "forks_count": 2598
+    "forks_count": 2601
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 5206,
+    "stargazers_count": 5204,
     "open_issues_count": 131,
-    "forks_count": 5458
+    "forks_count": 5457
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 65308,
+    "stargazers_count": 65306,
     "open_issues_count": 53,
-    "forks_count": 9191
-  },
-  {
-    "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 284198,
-    "open_issues_count": 252,
-    "forks_count": 36337
+    "forks_count": 9190
   }
 ]
