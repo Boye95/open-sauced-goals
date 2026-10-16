@@ -1,15 +1,15 @@
 [
   {
     "full_name": "weave-os/router",
-    "stargazers_count": 5587,
+    "stargazers_count": 5592,
     "open_issues_count": 165,
-    "forks_count": 155
+    "forks_count": 157
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 190967,
-    "open_issues_count": 579,
-    "forks_count": 10136
+    "stargazers_count": 191977,
+    "open_issues_count": 615,
+    "forks_count": 10152
   },
   {
     "full_name": "Olatisunkanmi/claudefiles",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 51623,
+    "stargazers_count": 51627,
     "open_issues_count": 13,
     "forks_count": 4032
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15689,
+    "stargazers_count": 15688,
     "open_issues_count": 480,
-    "forks_count": 1429
+    "forks_count": 1427
   },
   {
     "full_name": "tobisupreme/keep-alive-render",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 4185,
+    "stargazers_count": 4188,
     "open_issues_count": 10,
     "forks_count": 745
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 10560,
+    "stargazers_count": 10559,
     "open_issues_count": 85,
-    "forks_count": 2600
+    "forks_count": 2598
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 5910,
+    "stargazers_count": 5911,
     "open_issues_count": 11,
     "forks_count": 247
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 5209,
+    "stargazers_count": 5207,
     "open_issues_count": 131,
-    "forks_count": 5452
+    "forks_count": 5450
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -177,6 +177,6 @@
     "full_name": "lydiahallie/javascript-questions",
     "stargazers_count": 65288,
     "open_issues_count": 53,
-    "forks_count": 9182
+    "forks_count": 9183
   }
 ]
