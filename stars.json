@@ -1,15 +1,15 @@
 [
   {
     "full_name": "weave-os/router",
-    "stargazers_count": 5621,
-    "open_issues_count": 198,
+    "stargazers_count": 5625,
+    "open_issues_count": 228,
     "forks_count": 168
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 201380,
-    "open_issues_count": 797,
-    "forks_count": 10565
+    "stargazers_count": 202454,
+    "open_issues_count": 811,
+    "forks_count": 10605
   },
   {
     "full_name": "Olatisunkanmi/claudefiles",
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 51674,
-    "open_issues_count": 4,
-    "forks_count": 4034
+    "stargazers_count": 51680,
+    "open_issues_count": 5,
+    "forks_count": 4035
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15704,
-    "open_issues_count": 487,
+    "stargazers_count": 15707,
+    "open_issues_count": 493,
     "forks_count": 1428
   },
   {
@@ -44,14 +44,14 @@
   {
     "full_name": "malgamves/CommunityWriterPrograms",
     "stargazers_count": 4202,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 747
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 10554,
+    "stargazers_count": 10552,
     "open_issues_count": 86,
-    "forks_count": 2596
+    "forks_count": 2593
   },
   {
     "full_name": "Boye95/altcampv1-frontend",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 5913,
+    "stargazers_count": 5916,
     "open_issues_count": 11,
-    "forks_count": 247
+    "forks_count": 245
   },
   {
     "full_name": "AltCamp/altcampv1-backend",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 5225,
+    "stargazers_count": 5227,
     "open_issues_count": 135,
-    "forks_count": 5435
+    "forks_count": 5434
   },
   {
     "full_name": "Boye95/boye-portfolio",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 65272,
+    "stargazers_count": 65271,
     "open_issues_count": 56,
-    "forks_count": 9201
+    "forks_count": 9199
   }
 ]
